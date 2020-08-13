@@ -24,3 +24,5 @@ const today = new Date();
 console.log(today);
 
 console.log(typeof today);
+
+console.log(typeof today);
