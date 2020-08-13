@@ -14,6 +14,7 @@ const haskids = true;
 
 
 let test;
+let demo;
 
 console.log(typeof name);
 console.log(typeof age);
