@@ -27,3 +27,5 @@ console.log(today);
 console.log(typeof today);
 
 console.log(typeof today);
+
+// new line
